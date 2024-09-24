@@ -30,7 +30,7 @@ PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
 ]]
 
 OrionLib:MakeNotification({
-	Name = "Title!",
+	Name = "t.me/ScriptDLC",
 	Content = "Good luck for using my script",
 	Image = "rbxassetid://152693265",
 	Time = 10
